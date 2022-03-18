@@ -1,0 +1,11 @@
+/*mystyle.css*/
+
+body{
+    background-color: aqua;
+    padding: 30px;
+}
+
+p{
+  font-size: 15px; 
+  color: coral; 
+}
